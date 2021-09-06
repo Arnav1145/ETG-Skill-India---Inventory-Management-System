@@ -5,15 +5,15 @@ This repository is having all the codes used in AI/ML Skill India Schlarship Ass
 This repository helps to understand Inventory Management using Python and JSON.
 
 --------
-### About the repository?
+## About the repository?
 You'll learn JSON, NoSQL databases, File Handling.
 
-# All Files
+## All Files
 IMS_JSON.ipynb
 record.json
 sales.json
 
-# Features
+## Features
 
 This contains the program for running the IMS can do the following few things in the Inventory: 
 i. Add a new item to the record.json file from which all the data are fetched 
@@ -30,7 +30,7 @@ xi.See all the options again
 xii.Exit the IMS 
 This also tells us how to write data or update data in a json file in real time using json library.
 
-# Product features - record.json
+## Product features - record.json
 It contains following attributes as features:
 Product Id
 Product Name,
@@ -39,7 +39,7 @@ Manufacturer,
 Manufacturing Date,
 Quantity in stock
 
-# Sales features - ales.json
+## Sales features - sales.json
 It contains following attributes as features:
 Transaction Id
 Product Id
@@ -52,8 +52,8 @@ Time of purchase for each product
 
 Thanks for Reading
 
-# About Me
+## About Me
 Myself Arnav Modanwal pursuing  Bachelor of Engineering From Saffrony Institute of Technology. Enthusiast of Data Science, Machine Learning and Artificial Intelligence. Excited to learn anything new.
 
-# Important Links
+## Important Links
 LinkedIn : https://www.linkedin.com/in/arnav-modanwal-b4b111188
