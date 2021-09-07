@@ -16,39 +16,40 @@ sales.json
 ## Features
 
 This contains the program for running the IMS can do the following few things in the Inventory: 
-i. Add a new item to the record.json file from which all the data are fetched 
-ii.Remove an item from record.json 
-iii.Edit specifics about an item for updating it.
-iv.Lists all the items in the record.json file.
-v.Inquire about an item,i.e, to get all the info about it 
-vi.Purchase an item,i.e., add to cart 
-vii.Checkout from the cart 
-viii.Lists all the tems added to the cart 
-ix.Show total sale of today from sale.json file
-x.remove an item from the cart 
-xi.See all the options again 
-xii.Exit the IMS 
+1.  Add a new item to the record.json file from which all the data are fetched 
+2. Remove an item from record.json 
+3. Edit specifics about an item for updating it.
+4. Lists all the items in the record.json file.
+5. Inquire about an item,i.e, to get all the info about it 
+6. Purchase an item,i.e., add to cart 
+7. Checkout from the cart 
+8. Lists all the tems added to the cart 
+9. Show total sale of today from sale.json file
+10. remove an item from the cart 
+11. See all the options again 
+12. Exit the IMS 
+
 This also tells us how to write data or update data in a json file in real time using json library.
 
 ## Product features - record.json
 It contains following attributes as features:
-Product Id
-Product Name,
-Price,
-Manufacturer,
-Manufacturing Date,
-Quantity in stock
+1. Product Id
+2. Product Name,
+3. Price,
+4. Manufacturer,
+5. Manufacturing Date,
+6. Quantity in stock
 
 ## Sales features - sales.json
 It contains following attributes as features:
-Transaction Id
-Product Id
-Product Name,
-Price,
-Manufacturer,
-Manufacturing Date,
-Quantity in stock
-Time of purchase for each product
+1. Transaction Id
+2. Product Id
+3. Product Name,
+5. Price,
+6. Manufacturer,
+7. Manufacturing Date,
+8. Quantity in stock
+9. Time of purchase for each product
 
 Thanks for Reading
 
