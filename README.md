@@ -9,8 +9,8 @@ This repository helps to understand Inventory Management using Python and JSON.
 You'll learn JSON, NoSQL databases, File Handling.
 
 ## All Files
-IMS_JSON.ipynb
-record.json
+IMS_JSON.ipynb, 
+record.json, 
 sales.json
 
 ## Features
