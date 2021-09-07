@@ -51,6 +51,7 @@ It contains following attributes as features:
 8. Quantity in stock
 9. Time of purchase for each product
 
+It is not a perfect IMS, it may give error in some scenarios.
 Thanks for Reading
 
 ## About Me
